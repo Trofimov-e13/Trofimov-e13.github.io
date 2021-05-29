@@ -1,0 +1,26 @@
+nav{ display: block; color: white; width: 325px; margin: 50px; border: 2px solid orange; border-radius: 13px; margin: 4px;}
+nav:hover{background-color: black;}
+header{text-align: center; background-color: yellow; height: 50px; color: black;}
+body{background-color: indigo; background-image:  url(300x450.jpg); color: white; font-family: Courier New; }
+article{color: white; text-align: justify;}
+.one{ display:inline-block; padding: 5px; border: 2px solid orange; color: yellow; text-align: center;  perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto; width: 900px;}
+.one:hover{background-color: black;}
+b{color: yellow;}
+h2{ display: block; text-align: center;background-color: black;}
+h3{color: white;}
+.bio{color: white;text-align: center;}
+main{ text-align: center;
+    width: 900px;
+    background-color: indigo;
+    margin: auto;
+    padding: 10px 20px;
+    }
+footer{background-image: url(%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg);
+height: 180px; ;}
+i{vertical-align: top;}
+
+
+
